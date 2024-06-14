@@ -21,5 +21,5 @@ header{
 .cabecalho_imagem{ 
     width: 200px;
     height: 200px;
-    border-radius: 50px;
+    border-radius: 50%;
 }
