@@ -46,6 +46,7 @@ align-items: center;
     padding: 20px;
 }
 .elementos__div{
+    width: 30%;
     text-align: center;
 }
 .elementos__imagem{
