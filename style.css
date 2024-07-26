@@ -55,3 +55,6 @@ align-items: center;
     height: 300px;
     border-radius: 10px;
 }
+.elementos__titulo{
+    text-transform: uppercase;
+}
